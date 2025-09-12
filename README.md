@@ -8,7 +8,7 @@
 - 🌱 **I’m currently learning:** Next.js, Advanced React, and AI Integration in Web Apps  
 - 👯 **I’m looking to collaborate on:** Full Stack Web Projects, Hackathons & Open Source Contributions  
 - 🤔 **I’m looking for help with:** Scalable system design & advanced cloud deployments  
-- 💬 **Ask me about:** MERN Stack Development, Frontend UI/UX, and Database Management 
+- 💬 **Ask me about:** MERN Stack Development, Frontend UI, and Database Management 
 - 🎓 **Education:** Final Year B.Tech CSE @ Techno International Batanagar (CGPA 8.2/10)  
 - 💼 **Experience:** Digital Marketing Intern @ Indian Institute of Internship (May 2025 – Present)  
 - ⚡ **Fun fact:** They call me the *“Great Developer”* because I love turning ideas into reality
