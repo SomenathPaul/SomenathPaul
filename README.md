@@ -2,7 +2,7 @@
 **A passionate MERN Stack Developer || Final Year B.Tech CSE Student**
 
 📧 **Email Me:** somenathpaulbusiness10@gmail.com  
-🌐 **Portfolio:** linkedin.com/in/somenathpaul/ 
+🌐 **Portfolio:** https://www.linkedin.com/in/somenathpaul/ 
 
 - 🔭 **I’m currently working on:** MERN stack projects & my portfolio website  
 - 🌱 **I’m currently learning:** Next.js, Advanced React, and AI Integration in Web Apps  
